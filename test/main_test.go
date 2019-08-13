@@ -11,7 +11,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/apcera/gssapi"
+	"github.com/greenplum-db/gssapi"
 )
 
 const (

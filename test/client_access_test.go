@@ -13,8 +13,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/apcera/gssapi"
-	"github.com/apcera/gssapi/spnego"
+	"github.com/greenplum-db/gssapi"
+	"github.com/greenplum-db/gssapi/spnego"
 )
 
 func initClientContext(t *testing.T, method, path string,

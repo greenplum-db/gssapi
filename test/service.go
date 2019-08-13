@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/apcera/gssapi"
+	"github.com/greenplum-db/gssapi"
 )
 
 type loggingHandler struct {
