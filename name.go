@@ -18,7 +18,7 @@ package gssapi
 // Using "brew" on MacOS gives us: -I/usr/local/opt/heimdal/include
 
 /*
-#cgo darwin CFLAGS: -I/opt/local/include -I/usr/local/opt/heimdal/include
+#cgo darwin CFLAGS: -I/opt/local/include -I/usr/local/opt/heimdal/include -I/opt/local/libexec/heimdal/include
 #include <stdio.h>
 
 #include <gssapi/gssapi.h>
