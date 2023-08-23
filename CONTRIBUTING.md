@@ -8,6 +8,7 @@ yourself, and begin working on your code.
 
 # Suggested Workflow
 
+- Sign our [Contributor License Agreement](https://cla.vmware.com/cla/1/preview)
 - Fork our repo
 - Read the [README](README.md) on what we use gssapi for
 - Read the [TODO](TODO.md) for planned/desired work
